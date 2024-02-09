@@ -39,4 +39,4 @@ This template provides a basic setup for a Laravel 10 project with Vue 3 and Vit
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/iskanderomanov/docker-project.git
